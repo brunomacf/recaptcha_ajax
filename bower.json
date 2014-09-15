@@ -1,6 +1,6 @@
 {
   "name": "recaptcha_ajax",
   "version": "0.0.1",
-  "dependencies": {
-  }
+  "main": "recaptcha_ajax.js",
+  "dependencies": {}
 }
